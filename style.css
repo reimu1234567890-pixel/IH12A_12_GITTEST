@@ -4,4 +4,6 @@ h1{
 p{
     font-size: bold;
     color: #d03737;
+    position: relative;
+
 }
